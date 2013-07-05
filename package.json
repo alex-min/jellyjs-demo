@@ -1,0 +1,18 @@
+{
+  "name": "jellyjs-demo",
+  "version": "0.0.1",
+  "description": "Jelly.js Framework demo",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+    "framework",
+    "web"
+  ],
+  "author": "alex-min",
+  "license": "MIT",
+  "dependencies": {
+    "jellyjs": "0.x.x",
+    "async":"x.x.x"
+  },
+  "devDependencies": {}
+}

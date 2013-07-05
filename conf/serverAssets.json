@@ -1,0 +1,8 @@
+{
+  "loadedModules": [
+      {"name":"menu","params":{}}
+  ],
+  "plugins": [
+    "httpserver"
+  ]
+}
