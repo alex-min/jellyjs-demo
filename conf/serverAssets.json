@@ -4,5 +4,19 @@
   ],
   "plugins": [
     "httpserver"
-  ]
+  ],
+  "pluginsParameters": {
+    "httpserver":{
+      "port":80
+    },
+    "routing": {
+      "routes": {
+        "method":["get"],"id":"listUsers","url":"/user/{id}","call":
+          {
+            "type":"controller",
+            "name":"listUsers"
+          }
+        }        
+      }
+    }
 }

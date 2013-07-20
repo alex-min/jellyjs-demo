@@ -12,6 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "jellyjs": "0.x.x",
+    "jellyjs-plugin-httpserver":"0.x.x",
+    "express":"*",
     "async":"x.x.x"
   },
   "devDependencies": {}
